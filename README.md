@@ -18,7 +18,7 @@ Attualmente impegnato nel progetto di ricerca **Music4D**, mi appassiona la cost
 * 🏨 [**Hotel Management System**](https://github.com/diego-corona/WebSystemsDesignAndArchitecture-Hotel)  
   *Piattaforma Enterprise "Phygital" con automazione processi (No-Show, Housekeeping) e simulazione domotica IoT.* **Tech:** Spring Boot 3, Vanilla JS, MapStruct
 
-* ✒️ [**Paper Review CMS**](https://github.com/diego-corona/Paper-Review)  
+* ✒️ [**Paper Review CMS**](https://github.com/Deltekk/Paper-Review)  
   *Conference Management System con integrazione LLM (Llama) per la generazione automatica dei tag scientifici.* **Tech:** JavaFX, Java Server, Llama API
 
 * 🍝 [**Ciscusassi**](https://github.com/diego-corona/Ciscusassi)  
